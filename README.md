@@ -3,7 +3,7 @@
 
 1.The project goal is to find missing children using face recognition technology.
 2.The proposed system used LBPH face recognition algorithm, which is a texture-based method that can handle variations in illumination and pose.
-3.The system also used Haar cascade classifier face detection method, which is a machine learning technique that can quickly locate faces in images or videos.
+3.The system also used Haar cascade classifier face detction method, which is a machine learning technique that can quickly locate faces in images or videos.
 4.The system allows higher authorities to upload the picture of the missing child to a database when the case is registered, and then compare it with the footage from surveillance cameras in public and private areas.
 5.The Web based automated facial recognition system that can detect and recognize faces in real time and send an alert message if a match is  found.
 6.The main objective is to help reunite missing children with their families and reduce the risk of child trafficking and exploitation.
