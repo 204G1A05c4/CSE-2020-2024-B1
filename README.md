@@ -1,5 +1,5 @@
 # CSE-2020-2024-B1
-**Project Title : Missing child identification using LBPH and Open CV**
+**Project Title : Face based identification System using LBPH and Open CV**
 
 1.The project goal is to find missing children using face recognition technology.
 2.The proposed system used LBPH face recognition algorithm, which is a texture-based method that can handle variations in illumination and pose.
